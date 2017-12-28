@@ -1,0 +1,1 @@
+Start of feature development, developers need to make new branch prefix with feature and commit their modifications first on that branch
