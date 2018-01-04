@@ -1,0 +1,3 @@
+Commit Policy
+1. No trailing and leading white space
+2. No hypertext or pics
